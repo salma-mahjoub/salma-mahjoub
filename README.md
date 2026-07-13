@@ -18,28 +18,6 @@ Full case studies and projects: **[salmamahjoub.me](https://salmamahjoub.me)**
 
 <br/>
 
-## Experience
-
-**Mobile Developer Intern** · Jul 2026 – Present
-<br/>Mobile development within a summer engineering internship program.
-
-**Co-Founder** · Jun 2026 – Present
-<br/>Building an agentic platform for real-time cloud cost monitoring, with an AI-based anomaly detection model and automated infrastructure-as-code analysis.
-
-**Software Engineering Intern** · Jun 2026 – Present
-<br/>Designed and implemented a secure Machine-to-Machine (M2M) authentication system for an Android background service — OAuth 2.0 device auth flow, encrypted local credential storage, Redis-based validation, JWT issuance/validation, and an Android Keystore–based approach hardened against replay attacks and reverse engineering.
-
-**Active Member, IEEE CIS Chapter** · Oct 2024 – Oct 2025
-<br/>Took part in workshops and events on intelligent systems and machine learning; collaborated on AI-related projects.
-
-**ABAP Development Intern** · Jun – Jul 2025
-<br/>Built an application on the ABAP RESTful Application Programming (RAP) model — CDS access controls, authorization objects, business logic through handler classes and behavior projections, EML, ETags, and custom exception handling.
-
-**Market Research Intern** · Jun – Jul 2023
-<br/>Contributed to quantitative and qualitative market research studies and wrote analysis reports.
-
-<br/>
-
 ## Skills
 
 **Languages**
@@ -65,17 +43,6 @@ Machine Learning · NLP · Computer Vision
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,idea&theme=light" />
-
-<br/>
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salma-mahjoub&show_icons=true&hide_border=true&bg_color=FFF6F8&title_color=D98FA3&icon_color=D98FA3&text_color=3A2E33&ring_color=D98FA3" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-mahjoub&layout=compact&hide_border=true&bg_color=FFF6F8&title_color=D98FA3&text_color=3A2E33&langs_count=8" />
-
-</div>
 
 <br/>
 
